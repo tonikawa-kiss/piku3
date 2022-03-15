@@ -7,7 +7,7 @@
 
 > A Fully Modular and Efficient Bot <br>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/iamherok/Cara_public)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://github.com/tonikawa-kiss/piku3/edit/main/README.md) 
 
 </div>
 <div align="center">
@@ -26,7 +26,7 @@
 ## 💻 Deploy/Hosting Guide
 
 -   Section Moved to
-    [Chitoge-Guides](https://github.com/tonikawa-kiss/piku3?organization=tonikawa-kiss&organization=tonikawa-kiss) 
+    [Chitoge-Guides](https://github.com/ShineiIchijo/Chitoge-Guides/blob/main/README.md) 
 
 ## 🍥 Features of the Repo
 
