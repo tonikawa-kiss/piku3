@@ -7,7 +7,7 @@
 
 > A Fully Modular and Efficient Bot <br>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://github.com/tonikawa-kiss/piku3/edit/main/README.md) 
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/tonikawa-kiss/piku3)
 
 </div>
 <div align="center">
